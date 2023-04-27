@@ -17,8 +17,8 @@ span{
   color: #d43030 !important;
 }
 .bannerImg{
-  width: 98.5vw;
-  height: 85vh;
+  width: 100%;
+  height: auto;
   }
 .orgName {
   padding-top: 13vh !important;
